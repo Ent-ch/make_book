@@ -1,0 +1,11 @@
+{
+  "name": "jsraccoon",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp-markdown": "^1.2.0"
+  }
+}
